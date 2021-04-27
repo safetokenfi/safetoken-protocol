@@ -1,7 +1,7 @@
 {
   "name": "safetoken-protocol",
   "version": "0.1.0",
-  "description": "SafeZoo is a community-driven, fair-launched Yield Farming project built on Binance Smart Chain #BSC",
+  "description": "SafeToken is a community-driven, fair-launched Yield Farming project built on Binance Smart Chain #BSC",
   "repository": "https://github.com/safetokenfi/safetoken-protocol",
   "license": "MIT",
   "scripts": {
